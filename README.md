@@ -1,4 +1,4 @@
-# AdotePet
+# ![AdotePet](https://github.com/matheuss3/AdotePet/blob/main/imagens/logo.svg)
 > O propósito do sistema AdotePet é auxiliar no processo de adoção de pets, conectando pessoas que querem adotar um animal de estimação com pessoas que estão doando. Portanto, o sistema irá ter todos os animais em um só lugar, visando facilitar e agilizar a adoção.
 
 **Protótipo** - 
