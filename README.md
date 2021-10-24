@@ -1,8 +1,8 @@
 # ![AdotePet](https://github.com/matheuss3/AdotePet/blob/main/imagens/logo.svg)
 > #### Grupos
-> Desenvolvimento Web - Eduardo Alves, Matheus Herique, Matheus de Souza, Thais de Souza
-> Desenvolvimento Orientado a Objetos - George Matheus, Luiza Alencar, Matheus de Souza, Thais de Souza
-> Projeto de Sistemas - Camila Volponi, Eduardo Alves, Matheus Herique, Matheus de Souza, Thais de Souza
+> **Desenvolvimento Web** - Eduardo Alves, Matheus Herique, Matheus de Souza, Thais de Souza<br>
+> **Desenvolvimento Orientado a Objetos** - George Matheus, Luiza Alencar, Matheus de Souza, Thais de Souza<br>
+> **Projeto de Sistemas** - Camila Volponi, Eduardo Alves, Matheus Herique, Matheus de Souza, Thais de Souza
 
 > O propósito do sistema AdotePet é auxiliar no processo de adoção de pets, conectando pessoas que querem adotar um animal de estimação com pessoas que estão doando. Portanto, o sistema irá ter todos os animais em um só lugar, visando facilitar e agilizar a adoção.
 
