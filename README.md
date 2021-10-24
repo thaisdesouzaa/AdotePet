@@ -1,5 +1,5 @@
 # ![AdotePet](https://github.com/matheuss3/AdotePet/blob/main/imagens/logo.svg)
-> #### Grupos
+> ### Grupos
 > **Desenvolvimento Web** - Eduardo Alves, Matheus Herique, Matheus de Souza, Thais de Souza<br>
 > **Desenvolvimento Orientado a Objetos** - George Matheus, Luiza Alencar, Matheus de Souza, Thais de Souza<br>
 > **Projeto de Sistemas** - Camila Volponi, Eduardo Alves, Matheus Herique, Matheus de Souza, Thais de Souza
